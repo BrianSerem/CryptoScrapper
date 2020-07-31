@@ -3,14 +3,6 @@ const KeyManager = require('../lib/KeyManager');
 
 
 
-// try {
-//     const km = new KeyManager()
-//     const apiKey = km.getKey()
-    
-// } catch (err) {
-//     console.log(err.message.red)
-// }
-
 const check = {
 
     price (cmd) {
